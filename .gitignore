@@ -21,6 +21,15 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+*.csproj
+*.sln
+
+# Unity
+Temp
+Library
+Logs
+Bolt_DebugStart_Build
+Assets/RetroController
 
 # Visual Studio 2015 cache/options directory
 .vs/
